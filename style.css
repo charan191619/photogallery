@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: #222;
+  background: #f4f6f8;
+}
+
+header {
+  padding: 24px 10%;
+  background: #1f2937;
+  color: white;
+}
+
+nav a {
+  color: white;
+  margin-right: 16px;
+  text-decoration: none;
+}
+
+main {
+  max-width: 800px;
+  margin: 48px auto;
+  padding: 0 20px;
+}
+
+section {
+  margin: 40px 0;
+}
+
+.project {
+  background: white;
+  padding: 18px;
+  margin: 12px 0;
+  border-radius: 8px;
+}
+
+footer {
+  padding:30px;
+  text-align: center;
+  color: #666;
+}
